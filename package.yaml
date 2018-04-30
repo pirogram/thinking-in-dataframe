@@ -1,0 +1,7 @@
+code: thinking-in-dataframe
+title: Thinking in DataFrame
+description: DataFrame is the core data structure used in exploratory data analysis. Be it Pandas or R, the workflow is to load data in a DataFrame, clean it, analyze it, reshape it, analyze it, fix it, analyze it, on and on. A DataFrame arranges data in a tabular format and provides a powerful API to manipulate it. It's important to get a high level perspective on the structure of DataFrame and how to go about working with it.
+version: 0.1.0
+license: CC-BY-SA
+author_name: Manas Garg
+author_url: http://www.fuzzysparkle.com
